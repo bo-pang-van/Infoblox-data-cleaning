@@ -1,0 +1,106 @@
+[
+  {
+    "source_row_id": "1",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "invalid_ip",
+        "value": "192.168.010.005"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "2",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "invalid_ip",
+        "value": "10.0.1.300"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "3",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "wrong_part_count",
+        "value": "10.0.1"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "4",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "wrong_part_count",
+        "value": "10.0.1.1.2"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "9",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "invalid_ip",
+        "value": "abc.def.ghi.jkl"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "10",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "invalid_ip",
+        "value": "192.168.1.-1"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "14",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "invalid_ip",
+        "value": "010.010.010.010"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  },
+  {
+    "source_row_id": "15",
+    "issues": [
+      {
+        "field": "ip",
+        "type": "wrong_part_count",
+        "value": "N/A"
+      }
+    ],
+    "recommended_actions": [
+      "Correct IP or mark for review"
+    ]
+  }
+]
